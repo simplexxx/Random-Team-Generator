@@ -1,0 +1,24 @@
+{
+  "name": "rtg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplexxx/Random-Team-Generator.git"
+  },
+  "keywords": [
+    "random",
+    "group",
+    "team"
+  ],
+  "author": "simplexxx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simplexxx/Random-Team-Generator/issues"
+  },
+  "homepage": "https://github.com/simplexxx/Random-Team-Generator#readme"
+}
